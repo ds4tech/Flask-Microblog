@@ -1,0 +1,5 @@
+.idea
+venv
+*.pyc
+sli_config.ini
+__pycache__
