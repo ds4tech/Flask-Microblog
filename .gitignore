@@ -3,3 +3,4 @@ venv
 *.pyc
 sli_config.ini
 __pycache__
+lib/
